@@ -6,5 +6,12 @@
     <string name="point">Points: %d</string>
     <string name="ok">Okay</string>
     <string name="end_game_title">Results</string>
-    <string name="end_game_message">Congratulation! You got %d points!</string>
+    <string name="end_game_successful_message">Congratulation! You got %s.</string>
+    <string name="end_game_unsuccessful_message">Oops! You got only %s. Try again.</string>'
+
+    <plurals name="point">
+        <item quantity="one">%d point</item>
+        <item quantity="other">%d points</item>
+    </plurals>
+
 </resources>

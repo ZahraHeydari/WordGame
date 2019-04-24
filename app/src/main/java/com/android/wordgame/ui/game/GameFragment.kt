@@ -128,19 +128,24 @@ class GameFragment : DaggerFragment() {
         }
 
         viewModel.isAnswerCorrect.observe(this, Observer {
-            if (it!!) {
-                binding.gameAnswerTextView.setTextColor(ContextCompat.getColor(context!!, R.color.green))
-            } else {
-                binding.gameAnswerTextView.setTextColor(ContextCompat.getColor(context!!, R.color.red))
-            }
+            binding.gameAnswerTextView.setTextColor(
+                if (it!!) ContextCompat.getColor(
+                    context!!,
+                    R.color.green
+                ) else ContextCompat.getColor(context!!, R.color.red)
+            )
         })
     }
 
     private fun showEndGameDialog() {
+        val quantityPoints = resources.getQuantityString(R.plurals.point, viewModel.point.value!!,viewModel.point.value!!)
         context?.let { ctx ->
             AlertDialog.Builder(ctx)
                 .setTitle(R.string.end_game_title)
-                .setMessage(getString(R.string.end_game_message, viewModel.point.value))
+                .setMessage(
+                    if (viewModel.point.value!! > 5) getString(R.string.end_game_successful_message, quantityPoints)
+                    else getString(R.string.end_game_unsuccessful_message, quantityPoints)
+                )
                 .setCancelable(false)
                 .setPositiveButton(R.string.ok) { dialog, _ ->
                     dialog.dismiss()
@@ -174,7 +179,7 @@ class GameFragment : DaggerFragment() {
 
     private fun makeAnimation() {
         val toFloat = (binding.gameAnswerTextView.parent as ViewGroup).height.toFloat()
-        Log.i("GameFragment", toFloat.toString())
+        Log.i(TAG, toFloat.toString())
         animation = ObjectAnimator.ofFloat(
             binding.gameAnswerTextView, "translationY",
             (binding.gameAnswerTextView.parent as ViewGroup).height.toFloat()

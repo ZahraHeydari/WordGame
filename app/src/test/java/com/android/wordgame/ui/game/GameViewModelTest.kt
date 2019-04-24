@@ -6,6 +6,7 @@ import com.android.wordgame.data.model.Word
 import org.junit.Test
 
 import com.nhaarman.mockito_kotlin.mock
+import com.nhaarman.mockito_kotlin.verify
 import org.hamcrest.CoreMatchers
 import org.hamcrest.MatcherAssert
 
@@ -37,10 +38,35 @@ class GameViewModelTest {
     }
 
     @Test
+    fun verifyGetWordList() {
+        verify(gameRepository).getRandomWordList()
+    }
+
+    @Test
     fun getWordList() {
         val words = mock<List<Word>>()
         Mockito.`when`(gameRepository.getRandomWordList()).thenReturn(words)
         val result = gameRepository.getRandomWordList()
-        MatcherAssert.assertThat("Received result [$result] & mocked [$words] must be matches on each other!" , result , CoreMatchers.`is`(words))
+        MatcherAssert.assertThat(
+            "Received result [$result] & mocked [$words] must be matches on each other!",
+            result,
+            CoreMatchers.`is`(words)
+        )
     }
+
+    @Test
+    fun checkPoints() {
+        viewModel.getPoints()
+        assert(viewModel.point.value == 0)
+    }
+
+    @Test
+    fun checkIsGameOver(){
+        viewModel.isGameOver()
+        assert(!viewModel.isGameOver())
+    }
+
+
+
+
 }

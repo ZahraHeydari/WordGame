@@ -29,15 +29,15 @@ class DataHelper(var context: Context){
         var jsonArray = JSONArray()
         try {
             val inputStream = context.resources.openRawResource(R.raw.words_v2) ?: return jsonArray
-            val words = getWords(inputStream)
-            jsonArray = JSONArray(words)
+            val wordsString = getWordsString(inputStream)
+            jsonArray = JSONArray(wordsString)
         } catch (e: JSONException) {
             e.printStackTrace()
         }
         return jsonArray
     }
 
-    private fun getWords(inputStream: InputStream): String {
+    private fun getWordsString(inputStream: InputStream): String {
         val stringBuilder = StringBuilder()
         inputStream.bufferedReader(Charsets.UTF_8).use {
             stringBuilder.append(it.readText())

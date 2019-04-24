@@ -38,10 +38,11 @@ class GameViewModel @Inject constructor(repository: GameRepository) : ViewModel(
     fun getRandomQuestion() {
         if (isGameOver()) return
         val random = Random()
-        val index = random.nextInt(randomWords.size)
-        question.value = randomWords[index]
+        val indexQuestion = random.nextInt(randomWords.size)
+        question.value = randomWords[indexQuestion]
+        val indexAnswer = random.nextInt(randomWords.size)
+        answer.value = randomWords[indexAnswer]
         QUESTION_COUNT -= 1
-        getRandomAnswer()
 
     }
 
@@ -50,14 +51,6 @@ class GameViewModel @Inject constructor(repository: GameRepository) : ViewModel(
             isGameEnded.value = true
         }
         return isGameEnded.value!!
-    }
-
-
-    private fun getRandomAnswer() {
-        if (isGameOver()) return
-        val random = Random()
-        val index = random.nextInt(randomWords.size)
-        answer.value = randomWords[index]
     }
 
 
