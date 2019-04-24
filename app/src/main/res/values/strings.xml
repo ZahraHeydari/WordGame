@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WordGame</string>
+    <string name="start_game">Start Game</string>
+    <string name="game_guidance">Guidance: Check falling word with the word at top of the screen.
+        if this word is the translation of top word, select it as a correct one to get a point!</string>
+    <string name="point">Points: %d</string>
+    <string name="ok">Okay</string>
+    <string name="end_game_title">Results</string>
+    <string name="end_game_message">Congratulation! You got %d points!</string>
+</resources>

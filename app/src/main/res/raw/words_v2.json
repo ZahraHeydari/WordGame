@@ -1,0 +1,1190 @@
+[
+  {
+    "text_eng": "primary school",
+    "text_spa": "escuela primaria"
+  },
+  {
+    "text_eng": "teacher",
+    "text_spa": "profesor / profesora"
+  },
+  {
+    "text_eng": "pupil",
+    "text_spa": "alumno / alumna"
+  },
+  {
+    "text_eng": "holidays",
+    "text_spa": "vacaciones "
+  },
+  {
+    "text_eng": "class",
+    "text_spa": "curso"
+  },
+  {
+    "text_eng": "bell",
+    "text_spa": "timbre"
+  },
+  {
+    "text_eng": "group",
+    "text_spa": "grupo"
+  },
+  {
+    "text_eng": "exercise book",
+    "text_spa": "cuaderno"
+  },
+  {
+    "text_eng": "quiet",
+    "text_spa": "quieto"
+  },
+  {
+    "text_eng": "(to) answer",
+    "text_spa": "responder"
+  },
+  {
+    "text_eng": "headteacher",
+    "text_spa": "director del colegio / directora del colegio"
+  },
+  {
+    "text_eng": "state school",
+    "text_spa": "colegio público"
+  },
+  {
+    "text_eng": "private school",
+    "text_spa": "colegio privado"
+  },
+  {
+    "text_eng": "school bus",
+    "text_spa": "autobús escolar"
+  },
+  {
+    "text_eng": "trick",
+    "text_spa": "jugarreta"
+  },
+  {
+    "text_eng": "pair",
+    "text_spa": "pareja"
+  },
+  {
+    "text_eng": "exercise",
+    "text_spa": "ejercicio"
+  },
+  {
+    "text_eng": "lunch box",
+    "text_spa": "fiambrera"
+  },
+  {
+    "text_eng": "neat",
+    "text_spa": "ordenado"
+  },
+  {
+    "text_eng": "motivated",
+    "text_spa": "motivado"
+  },
+  {
+    "text_eng": "ball",
+    "text_spa": "balón"
+  },
+  {
+    "text_eng": "Monday",
+    "text_spa": "lunes"
+  },
+  {
+    "text_eng": "Tuesday",
+    "text_spa": "martes"
+  },
+  {
+    "text_eng": "Wednesday",
+    "text_spa": "miércoles"
+  },
+  {
+    "text_eng": "Thursday",
+    "text_spa": "jueves"
+  },
+  {
+    "text_eng": "Friday",
+    "text_spa": "viernes"
+  },
+  {
+    "text_eng": "Saturday",
+    "text_spa": "sábado"
+  },
+  {
+    "text_eng": "Sunday",
+    "text_spa": "domingo"
+  },
+  {
+    "text_eng": "countryside",
+    "text_spa": "campo"
+  },
+  {
+    "text_eng": "rural",
+    "text_spa": "rural"
+  },
+  {
+    "text_eng": "hill",
+    "text_spa": "colina"
+  },
+  {
+    "text_eng": "valley",
+    "text_spa": "valle"
+  },
+  {
+    "text_eng": "farm",
+    "text_spa": "granja"
+  },
+  {
+    "text_eng": "field",
+    "text_spa": "campo"
+  },
+  {
+    "text_eng": "pond",
+    "text_spa": "laguna"
+  },
+  {
+    "text_eng": "forest",
+    "text_spa": "bosque"
+  },
+  {
+    "text_eng": "hedge",
+    "text_spa": "seto"
+  },
+  {
+    "text_eng": "rainforest",
+    "text_spa": "selva lluviosa"
+  },
+  {
+    "text_eng": "tropics",
+    "text_spa": "zona tropical"
+  },
+  {
+    "text_eng": "vegetation",
+    "text_spa": "vegetación"
+  },
+  {
+    "text_eng": "branch",
+    "text_spa": "rama"
+  },
+  {
+    "text_eng": "parasite",
+    "text_spa": "parásito"
+  },
+  {
+    "text_eng": "species",
+    "text_spa": "especie"
+  },
+  {
+    "text_eng": "jungle",
+    "text_spa": "jungla"
+  },
+  {
+    "text_eng": "equator",
+    "text_spa": "ecuador"
+  },
+  {
+    "text_eng": "dense",
+    "text_spa": "espeso"
+  },
+  {
+    "text_eng": "humid",
+    "text_spa": "húmedo"
+  },
+  {
+    "text_eng": "rainfall",
+    "text_spa": "precipitación "
+  },
+  {
+    "text_eng": "forest floor",
+    "text_spa": "suelo del bosque"
+  },
+  {
+    "text_eng": "swamp",
+    "text_spa": "zona pantanosa"
+  },
+  {
+    "text_eng": "building",
+    "text_spa": "edificio"
+  },
+  {
+    "text_eng": "house",
+    "text_spa": "casa"
+  },
+  {
+    "text_eng": "station",
+    "text_spa": "estación"
+  },
+  {
+    "text_eng": "castle",
+    "text_spa": "castillo"
+  },
+  {
+    "text_eng": "tower block",
+    "text_spa": "edificio alto"
+  },
+  {
+    "text_eng": "hospital",
+    "text_spa": "hospital"
+  },
+  {
+    "text_eng": "town hall",
+    "text_spa": "ayuntamiento"
+  },
+  {
+    "text_eng": "church",
+    "text_spa": "iglesia"
+  },
+  {
+    "text_eng": "factory",
+    "text_spa": "fábrica"
+  },
+  {
+    "text_eng": "(to) build",
+    "text_spa": "construir"
+  },
+  {
+    "text_eng": "warehouse",
+    "text_spa": "almacén"
+  },
+  {
+    "text_eng": "fire station",
+    "text_spa": "puesto de bomberos"
+  },
+  {
+    "text_eng": "emergency",
+    "text_spa": "urgencia"
+  },
+  {
+    "text_eng": "problem",
+    "text_spa": "problema"
+  },
+  {
+    "text_eng": "ambulance",
+    "text_spa": "ambulancia"
+  },
+  {
+    "text_eng": "fire brigade",
+    "text_spa": "cuerpo de bomberos"
+  },
+  {
+    "text_eng": "fire",
+    "text_spa": "incendio"
+  },
+  {
+    "text_eng": "firefighter",
+    "text_spa": "bombero"
+  },
+  {
+    "text_eng": "dangerous",
+    "text_spa": "peligroso"
+  },
+  {
+    "text_eng": "ladder",
+    "text_spa": "escalera"
+  },
+  {
+    "text_eng": "accident",
+    "text_spa": "accidente"
+  },
+  {
+    "text_eng": "bystander",
+    "text_spa": "curioso"
+  },
+  {
+    "text_eng": "urgent",
+    "text_spa": "urgente"
+  },
+  {
+    "text_eng": "(to) rescue",
+    "text_spa": "salvar"
+  },
+  {
+    "text_eng": "ocean",
+    "text_spa": "océano"
+  },
+  {
+    "text_eng": "sea",
+    "text_spa": "mar"
+  },
+  {
+    "text_eng": "wave",
+    "text_spa": "ola"
+  },
+  {
+    "text_eng": "beach",
+    "text_spa": "playa"
+  },
+  {
+    "text_eng": "rock",
+    "text_spa": "roca"
+  },
+  {
+    "text_eng": "seaweed",
+    "text_spa": "alga"
+  },
+  {
+    "text_eng": "island",
+    "text_spa": "isla"
+  },
+  {
+    "text_eng": "(to) swim",
+    "text_spa": "nadar"
+  },
+  {
+    "text_eng": "steak",
+    "text_spa": "bistec"
+  },
+  {
+    "text_eng": "sausage",
+    "text_spa": "salchicha"
+  },
+  {
+    "text_eng": "fish",
+    "text_spa": "pescado"
+  },
+  {
+    "text_eng": "fat",
+    "text_spa": "grasa"
+  },
+  {
+    "text_eng": "lean",
+    "text_spa": "magro"
+  },
+  {
+    "text_eng": "(to) barbecue",
+    "text_spa": "hacer una barbacoa"
+  },
+  {
+    "text_eng": "shellfish",
+    "text_spa": "crustáceo"
+  },
+  {
+    "text_eng": "lamb",
+    "text_spa": "cordero"
+  },
+  {
+    "text_eng": "fillet",
+    "text_spa": "filete"
+  },
+  {
+    "text_eng": "wing",
+    "text_spa": "ala"
+  },
+  {
+    "text_eng": "seafood",
+    "text_spa": "marisco"
+  },
+  {
+    "text_eng": "minced meat",
+    "text_spa": "carne picada"
+  },
+  {
+    "text_eng": "salami",
+    "text_spa": "salami"
+  },
+  {
+    "text_eng": "tender",
+    "text_spa": "tierno"
+  },
+  {
+    "text_eng": "insurance",
+    "text_spa": "seguro"
+  },
+  {
+    "text_eng": "ward",
+    "text_spa": "unidad"
+  },
+  {
+    "text_eng": "medical",
+    "text_spa": "médico"
+  },
+  {
+    "text_eng": "(to) save",
+    "text_spa": "salvar"
+  },
+  {
+    "text_eng": "pub",
+    "text_spa": "bar"
+  },
+  {
+    "text_eng": "cafe",
+    "text_spa": "café"
+  },
+  {
+    "text_eng": "(to) raise one's glass",
+    "text_spa": "brindar"
+  },
+  {
+    "text_eng": "cheers",
+    "text_spa": "salud"
+  },
+  {
+    "text_eng": "please",
+    "text_spa": "por favor"
+  },
+  {
+    "text_eng": "round",
+    "text_spa": "ronda"
+  },
+  {
+    "text_eng": "bartender",
+    "text_spa": "barman "
+  },
+  {
+    "text_eng": "noisy",
+    "text_spa": "ruidoso"
+  },
+  {
+    "text_eng": "(to) serve",
+    "text_spa": "atender"
+  },
+  {
+    "text_eng": "thank you",
+    "text_spa": "gracias"
+  },
+  {
+    "text_eng": "peanut",
+    "text_spa": "cacahuete"
+  },
+  {
+    "text_eng": "happy hour",
+    "text_spa": "hora feliz"
+  },
+  {
+    "text_eng": "drunk",
+    "text_spa": "borracho"
+  },
+  {
+    "text_eng": "(to) throw out",
+    "text_spa": "echar"
+  },
+  {
+    "text_eng": "non-alcoholic ",
+    "text_spa": "sin alcohol"
+  },
+  {
+    "text_eng": "poverty",
+    "text_spa": "pobreza"
+  },
+  {
+    "text_eng": "crime",
+    "text_spa": "delito"
+  },
+  {
+    "text_eng": "illegal",
+    "text_spa": "ilegal"
+  },
+  {
+    "text_eng": "crisis",
+    "text_spa": "crisis"
+  },
+  {
+    "text_eng": "hunger",
+    "text_spa": "hambre"
+  },
+  {
+    "text_eng": "violence",
+    "text_spa": "violencia"
+  },
+  {
+    "text_eng": "victim",
+    "text_spa": "víctima"
+  },
+  {
+    "text_eng": "curtain",
+    "text_spa": "cortina"
+  },
+  {
+    "text_eng": "carpet",
+    "text_spa": "alfombra"
+  },
+  {
+    "text_eng": "mirror",
+    "text_spa": "espejo"
+  },
+  {
+    "text_eng": "lamp",
+    "text_spa": "lámpara"
+  },
+  {
+    "text_eng": "picture",
+    "text_spa": "imagen"
+  },
+  {
+    "text_eng": "clock",
+    "text_spa": "reloj"
+  },
+  {
+    "text_eng": "cosy",
+    "text_spa": "acogedor"
+  },
+  {
+    "text_eng": "(to) hang",
+    "text_spa": "colgar"
+  },
+  {
+    "text_eng": "vase",
+    "text_spa": "florero"
+  },
+  {
+    "text_eng": "cushion",
+    "text_spa": "cojín"
+  },
+  {
+    "text_eng": "politics",
+    "text_spa": "política"
+  },
+  {
+    "text_eng": "country",
+    "text_spa": "país"
+  },
+  {
+    "text_eng": "democracy",
+    "text_spa": "democracia"
+  },
+  {
+    "text_eng": "canary",
+    "text_spa": "canario"
+  },
+  {
+    "text_eng": "penguin",
+    "text_spa": "pingüino"
+  },
+  {
+    "text_eng": "egg",
+    "text_spa": "huevo"
+  },
+  {
+    "text_eng": "nest",
+    "text_spa": "nido"
+  },
+  {
+    "text_eng": "crow",
+    "text_spa": "corneja"
+  },
+  {
+    "text_eng": "wing",
+    "text_spa": "ala"
+  },
+  {
+    "text_eng": "sparrow",
+    "text_spa": "gorrión"
+  },
+  {
+    "text_eng": "parrot",
+    "text_spa": "loro"
+  },
+  {
+    "text_eng": "owl",
+    "text_spa": "lechuza"
+  },
+  {
+    "text_eng": "eagle",
+    "text_spa": "águila"
+  },
+  {
+    "text_eng": "swan",
+    "text_spa": "cisne"
+  },
+  {
+    "text_eng": "foot",
+    "text_spa": "pie"
+  },
+  {
+    "text_eng": "hand",
+    "text_spa": "mano"
+  },
+  {
+    "text_eng": "arm",
+    "text_spa": "brazo"
+  },
+  {
+    "text_eng": "head",
+    "text_spa": "cabeza"
+  },
+  {
+    "text_eng": "finger",
+    "text_spa": "dedo"
+  },
+  {
+    "text_eng": "eyes",
+    "text_spa": "ojos"
+  },
+  {
+    "text_eng": "face",
+    "text_spa": "cara"
+  },
+  {
+    "text_eng": "leg",
+    "text_spa": "pierna"
+  },
+  {
+    "text_eng": "body",
+    "text_spa": "cuerpo"
+  },
+  {
+    "text_eng": "mouth",
+    "text_spa": "boca"
+  },
+  {
+    "text_eng": "nose",
+    "text_spa": "nariz"
+  },
+  {
+    "text_eng": "knee",
+    "text_spa": "rodilla"
+  },
+  {
+    "text_eng": "ear",
+    "text_spa": "oreja"
+  },
+  {
+    "text_eng": "tooth",
+    "text_spa": "diente"
+  },
+  {
+    "text_eng": "neck",
+    "text_spa": "cuello"
+  },
+  {
+    "text_eng": "back",
+    "text_spa": "espalda"
+  },
+  {
+    "text_eng": "belly",
+    "text_spa": "barriga"
+  },
+  {
+    "text_eng": "hare",
+    "text_spa": "liebre"
+  },
+  {
+    "text_eng": "bear",
+    "text_spa": "oso"
+  },
+  {
+    "text_eng": "wolf",
+    "text_spa": "lobo"
+  },
+  {
+    "text_eng": "crocodile",
+    "text_spa": "cocodrilo"
+  },
+  {
+    "text_eng": "kangaroo",
+    "text_spa": "canguro"
+  },
+  {
+    "text_eng": "snake",
+    "text_spa": "serpiente"
+  },
+  {
+    "text_eng": "frog",
+    "text_spa": "rana"
+  },
+  {
+    "text_eng": "squirrel",
+    "text_spa": "ardilla"
+  },
+  {
+    "text_eng": "armadillo",
+    "text_spa": "armadillo"
+  },
+  {
+    "text_eng": "sloth",
+    "text_spa": "perezoso"
+  },
+  {
+    "text_eng": "hippopotamus",
+    "text_spa": "hipopótamo"
+  },
+  {
+    "text_eng": "giraffe",
+    "text_spa": "jirafa"
+  },
+  {
+    "text_eng": "hunter",
+    "text_spa": "cazador/a"
+  },
+  {
+    "text_eng": "deer",
+    "text_spa": "corzo"
+  },
+  {
+    "text_eng": "tame",
+    "text_spa": "manso"
+  },
+  {
+    "text_eng": "cereal",
+    "text_spa": "cereal"
+  },
+  {
+    "text_eng": "rice",
+    "text_spa": "arroz"
+  },
+  {
+    "text_eng": "wheat",
+    "text_spa": "trigo"
+  },
+  {
+    "text_eng": "corn",
+    "text_spa": "maíz"
+  },
+  {
+    "text_eng": "pasta",
+    "text_spa": "pasta"
+  },
+  {
+    "text_eng": "tableware",
+    "text_spa": "vajilla"
+  },
+  {
+    "text_eng": "plate",
+    "text_spa": "plato"
+  },
+  {
+    "text_eng": "knife",
+    "text_spa": "cuchillo"
+  },
+  {
+    "text_eng": "fork",
+    "text_spa": "tenedor"
+  },
+  {
+    "text_eng": "spoon",
+    "text_spa": "cuchara"
+  },
+  {
+    "text_eng": "glass",
+    "text_spa": "vaso"
+  },
+  {
+    "text_eng": "bowl",
+    "text_spa": "sopera"
+  },
+  {
+    "text_eng": "teaspoon",
+    "text_spa": "cucharilla"
+  },
+  {
+    "text_eng": "cup",
+    "text_spa": "taza"
+  },
+  {
+    "text_eng": "bottle",
+    "text_spa": "botella"
+  },
+  {
+    "text_eng": "cutlery",
+    "text_spa": "cubertería"
+  },
+  {
+    "text_eng": "tray",
+    "text_spa": "bandeja"
+  },
+  {
+    "text_eng": "chopsticks",
+    "text_spa": "palillos para comer"
+  },
+  {
+    "text_eng": "saucer",
+    "text_spa": "platillo"
+  },
+  {
+    "text_eng": "tablecloth",
+    "text_spa": "mantel"
+  },
+  {
+    "text_eng": "place setting",
+    "text_spa": "cubierto"
+  },
+  {
+    "text_eng": "china",
+    "text_spa": "porcelana"
+  },
+  {
+    "text_eng": "literature",
+    "text_spa": "literatura"
+  },
+  {
+    "text_eng": "book",
+    "text_spa": "libro"
+  },
+  {
+    "text_eng": "page",
+    "text_spa": "página"
+  },
+  {
+    "text_eng": "story",
+    "text_spa": "historia"
+  },
+  {
+    "text_eng": "poem",
+    "text_spa": "poema"
+  },
+  {
+    "text_eng": "fairy tale",
+    "text_spa": "cuento"
+  },
+  {
+    "text_eng": "paperback",
+    "text_spa": "libro de bolsillo"
+  },
+  {
+    "text_eng": "fiction",
+    "text_spa": "bellas letras"
+  },
+  {
+    "text_eng": "long",
+    "text_spa": "largo"
+  },
+  {
+    "text_eng": "(to) read",
+    "text_spa": "leer"
+  },
+  {
+    "text_eng": "classic",
+    "text_spa": "clásico"
+  },
+  {
+    "text_eng": "novel",
+    "text_spa": "novela"
+  },
+  {
+    "text_eng": "genre",
+    "text_spa": "género"
+  },
+  {
+    "text_eng": "complicated",
+    "text_spa": "complicado"
+  },
+  {
+    "text_eng": "dance",
+    "text_spa": "danza"
+  },
+  {
+    "text_eng": "performance",
+    "text_spa": "presentación"
+  },
+  {
+    "text_eng": "ballet",
+    "text_spa": "ballet"
+  },
+  {
+    "text_eng": "ballroom",
+    "text_spa": "salón de baile"
+  },
+  {
+    "text_eng": "partner",
+    "text_spa": "pareja"
+  },
+  {
+    "text_eng": "waltz",
+    "text_spa": "vals"
+  },
+  {
+    "text_eng": "swing",
+    "text_spa": "swing"
+  },
+  {
+    "text_eng": "dancer",
+    "text_spa": "bailarín / bailarina"
+  },
+  {
+    "text_eng": "modern",
+    "text_spa": "moderno"
+  },
+  {
+    "text_eng": "(to) dance",
+    "text_spa": "bailar"
+  },
+  {
+    "text_eng": "emotion",
+    "text_spa": "emoción"
+  },
+  {
+    "text_eng": "mood",
+    "text_spa": "humor"
+  },
+  {
+    "text_eng": "happy",
+    "text_spa": "feliz"
+  },
+  {
+    "text_eng": "sad",
+    "text_spa": "triste"
+  },
+  {
+    "text_eng": "excited",
+    "text_spa": "emocionado"
+  },
+  {
+    "text_eng": "joy",
+    "text_spa": "alegría"
+  },
+  {
+    "text_eng": "love",
+    "text_spa": "amor"
+  },
+  {
+    "text_eng": "hate",
+    "text_spa": "odio"
+  },
+  {
+    "text_eng": "angry",
+    "text_spa": "enfadado"
+  },
+  {
+    "text_eng": "(to) feel",
+    "text_spa": "sentirse"
+  },
+  {
+    "text_eng": "feeling",
+    "text_spa": "sentimiento"
+  },
+  {
+    "text_eng": "hope",
+    "text_spa": "esperanza"
+  },
+  {
+    "text_eng": "depressed",
+    "text_spa": "deprimido"
+  },
+  {
+    "text_eng": "sympathy",
+    "text_spa": "compasión"
+  },
+  {
+    "text_eng": "lonely",
+    "text_spa": "solo"
+  },
+  {
+    "text_eng": "satisfied",
+    "text_spa": "satisfecho"
+  },
+  {
+    "text_eng": "proud",
+    "text_spa": "orgulloso"
+  },
+  {
+    "text_eng": "disappointed",
+    "text_spa": "decepcionado"
+  },
+  {
+    "text_eng": "upset",
+    "text_spa": "indignado"
+  },
+  {
+    "text_eng": "painting",
+    "text_spa": "pintura"
+  },
+  {
+    "text_eng": "photography",
+    "text_spa": "fotografía"
+  },
+  {
+    "text_eng": "gallery",
+    "text_spa": "galería"
+  },
+  {
+    "text_eng": "photo",
+    "text_spa": "foto"
+  },
+  {
+    "text_eng": "artist",
+    "text_spa": "artista"
+  },
+  {
+    "text_eng": "(to) paint",
+    "text_spa": "pintar"
+  },
+  {
+    "text_eng": "black and white",
+    "text_spa": "blanco y negro"
+  },
+  {
+    "text_eng": "drawing",
+    "text_spa": "dibujo"
+  },
+  {
+    "text_eng": "frame",
+    "text_spa": "marco"
+  },
+  {
+    "text_eng": "(to) hang",
+    "text_spa": "colgar"
+  },
+  {
+    "text_eng": "portrait",
+    "text_spa": "retrato"
+  },
+  {
+    "text_eng": "landscape",
+    "text_spa": "paisaje"
+  },
+  {
+    "text_eng": "abstract",
+    "text_spa": "abstracto"
+  },
+  {
+    "text_eng": "watercolour",
+    "text_spa": "acuarela"
+  },
+  {
+    "text_eng": "oil colour",
+    "text_spa": "óleo"
+  },
+  {
+    "text_eng": "film",
+    "text_spa": "película"
+  },
+  {
+    "text_eng": "brush",
+    "text_spa": "pincel"
+  },
+  {
+    "text_eng": "print",
+    "text_spa": "copia"
+  },
+  {
+    "text_eng": "contemporary art",
+    "text_spa": "arte contemporáneo"
+  },
+  {
+    "text_eng": "artistic",
+    "text_spa": "artístico"
+  },
+  {
+    "text_eng": "adulthood",
+    "text_spa": "edad adulta"
+  },
+  {
+    "text_eng": "adult",
+    "text_spa": "adulto / adulta"
+  },
+  {
+    "text_eng": "woman",
+    "text_spa": "mujer"
+  },
+  {
+    "text_eng": "man",
+    "text_spa": "hombre"
+  },
+  {
+    "text_eng": "(to) work",
+    "text_spa": "trabajar"
+  },
+  {
+    "text_eng": "plan",
+    "text_spa": "plan"
+  },
+  {
+    "text_eng": "experience",
+    "text_spa": "experiencia"
+  },
+  {
+    "text_eng": "(to) get married",
+    "text_spa": "casarse"
+  },
+  {
+    "text_eng": "in love",
+    "text_spa": "enamorado"
+  },
+  {
+    "text_eng": "relatives",
+    "text_spa": "parientes"
+  },
+  {
+    "text_eng": "grandmother",
+    "text_spa": "abuela"
+  },
+  {
+    "text_eng": "grandfather",
+    "text_spa": "abuelo"
+  },
+  {
+    "text_eng": "grandson",
+    "text_spa": "nieto"
+  },
+  {
+    "text_eng": "granddaughter",
+    "text_spa": "nieta"
+  },
+  {
+    "text_eng": "nephew",
+    "text_spa": "sobrino"
+  },
+  {
+    "text_eng": "niece",
+    "text_spa": "sobrina"
+  },
+  {
+    "text_eng": "related",
+    "text_spa": "pariente"
+  },
+  {
+    "text_eng": "aunt",
+    "text_spa": "tía"
+  },
+  {
+    "text_eng": "uncle",
+    "text_spa": "tío"
+  },
+  {
+    "text_eng": "cousin",
+    "text_spa": "primo / prima"
+  },
+  {
+    "text_eng": "parents-in-law",
+    "text_spa": "suegros"
+  },
+  {
+    "text_eng": "great-grandparents",
+    "text_spa": "bisabuelos"
+  },
+  {
+    "text_eng": "descendant",
+    "text_spa": "descendiente"
+  },
+  {
+    "text_eng": "ancestor",
+    "text_spa": "antepasado"
+  },
+  {
+    "text_eng": "distantly",
+    "text_spa": "lejano"
+  },
+  {
+    "text_eng": "second cousin",
+    "text_spa": "primo de segundo grado "
+  },
+  {
+    "text_eng": "game",
+    "text_spa": "juego"
+  },
+  {
+    "text_eng": "puzzle",
+    "text_spa": "juego de paciencia"
+  },
+  {
+    "text_eng": "card",
+    "text_spa": "carta"
+  },
+  {
+    "text_eng": "dice",
+    "text_spa": "dado"
+  },
+  {
+    "text_eng": "rule",
+    "text_spa": "regla"
+  },
+  {
+    "text_eng": "chess",
+    "text_spa": "ajedrez"
+  },
+  {
+    "text_eng": "crossword",
+    "text_spa": "crucigrama"
+  },
+  {
+    "text_eng": "jigsaw",
+    "text_spa": "puzzle"
+  }
+]

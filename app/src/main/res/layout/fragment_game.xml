@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <data>
+        <import type="android.view.View"/>
+
+        <variable name="gameViewModel" type="com.android.wordgame.ui.game.GameViewModel"/>
+
+    </data>
+
+    <android.support.constraint.ConstraintLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/game_container"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:orientation="vertical">
+
+        <!--header-->
+        <RelativeLayout
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:padding="8dp"
+                android:background="@color/colorPrimaryLight"
+                android:id="@+id/game_header_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentLeft="true"
+                    android:text="Timer"
+                    android:layout_marginStart="4dp"
+                    android:layout_marginEnd="4dp"
+                    android:textSize="@dimen/headline"
+                    android:id="@+id/game_timer_text_view"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            <TextView
+                    android:layout_centerInParent="true"
+                    android:textSize="@dimen/display1"
+                    android:id="@+id/game_question_text_view"
+                    android:textColor="@color/black"
+                    android:layout_margin="4dp"
+                    android:layout_below="@id/game_timer_text_view"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            <TextView
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/point"
+                    android:textSize="@dimen/headline"
+                    android:layout_marginStart="4dp"
+                    android:layout_marginEnd="4dp"
+                    android:id="@+id/game_point_text_view"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+                app:layout_constraintTop_toBottomOf="@+id/game_header_container"
+                app:layout_constraintBottom_toTopOf="@+id/game_answer_container"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:id="@+id/rl_main_container">
+
+            <TextView android:id="@+id/game_answer_text_view"
+                      android:layout_alignParentTop="true"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:layout_centerHorizontal="true"
+                      android:textColor="@color/black"
+                      android:textSize="@dimen/display1"/>
+
+        </RelativeLayout>
+
+        <!--footer-->
+        <RelativeLayout
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:layout_alignParentBottom="true"
+                android:background="@color/colorAccentLight"
+                android:id="@+id/game_answer_container"
+                android:layout_width="match_parent"
+                android:padding="8dp"
+                android:layout_gravity="bottom"
+                android:layout_height="wrap_content">
+
+
+            <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/game_correct_image_view"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginEnd="24dp"
+                    android:layout_marginStart="24dp"
+                    android:layout_centerHorizontal="true"
+                    app:srcCompat="@drawable/ic_correct_vector"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/game_incorrect_image_view"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginEnd="24dp"
+                    android:layout_marginStart="24dp"
+                    android:layout_centerHorizontal="true"
+                    app:srcCompat="@drawable/ic_incorrect_vector"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+        </RelativeLayout>
+
+
+    </android.support.constraint.ConstraintLayout>
+
+</layout>
